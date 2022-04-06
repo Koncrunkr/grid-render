@@ -1,6 +1,6 @@
 {
   "name": "grid-render",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "d3": "^7.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
   }
 }
