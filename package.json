@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "d3": "^7.4.2"
+    "d3": "^7.4.2",
+    "d3-drag": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0"
   },
   "devDependencies": {
     "mocha": "^9.2.2"
